@@ -2,6 +2,6 @@ Hello I'm Jasmine, a Biomedical Engineering student at UT Austin passionate abou
 
 - **Technical interests:** ML architectures, computer vision, medical imaging, cloud, cryptocurrency, real estate
 - **Current focus:** Using data and ML to improve health outcomes and build scalable, impactful solutions
-- **Peripheral:** UT Competitive Pickleball Team Representative, UT SASE Extracurricular Director, Singer in a band: *Somnia*  
+- **Peripheral:** UT Competitive Pickleball Team Representative, UT SASE Extracurricular Director, Lead Singer in a band: *Somnia*  
 
 Please reach out! I know I would love to get to know you ｡°✩
